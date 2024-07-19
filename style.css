@@ -107,6 +107,7 @@ button {
   }
 
   .meal_image {
+    border-radius: 10px;
     width: 225px;
     height: 225px;
   }
